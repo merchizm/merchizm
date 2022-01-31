@@ -11,6 +11,11 @@
 
 ## 📚 Lastest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2021 benim için nasıl geçti?](https://merchizm.github.io/2021-benim-icin-nasil-gecti)
+- [MacOS&#39;ta PHPRedis ve Redis kurulumu](https://merchizm.github.io/macos-phpredis-ve-redis-kurulumu)
+- [MacOS&#39;a Tesseract ve Ek Dil Kurulumu](https://merchizm.github.io/tesseract-kurulumu-macos)
+- [youtube-dl ile ücretsiz bir şekilde bir çok siteden video indirmek](https://merchizm.github.io/youtube-dl-ile-ucretsiz-bir-sekilde-bir-cok-siteden-video-indirmek)
+- [PHP 8 ile gelen yeni özellikler ve fonksiyonlar](https://merchizm.github.io/php-sekiz-ile-neler-geldi)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗿 My Github Stats
