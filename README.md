@@ -19,7 +19,7 @@
 
 ### Connect with me: [merichrocks@icloud.com](mailto:merichrocks@icloud.com) or [LinkedIn](https://www.linkedin.com/in/enes-kayalar-88b3851b6/)
 
-## 📚 Lastest Blog Posts
+## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [2021 benim için nasıl geçti?](https://merchizm.github.io/2021-benim-icin-nasil-gecti)
 - [MacOS&#39;ta PHPRedis ve Redis kurulumu](https://merchizm.github.io/macos-phpredis-ve-redis-kurulumu)
