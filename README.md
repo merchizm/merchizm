@@ -16,8 +16,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/1e17a81b15f2961de6337c40b02920a681696c33/topics/pixel-art/pixel-art.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 
 ### Connect with me: [merichrocks@icloud.com](mailto:merichrocks@icloud.com) or [LinkedIn](https://www.linkedin.com/in/enes-kayalar-88b3851b6/)
 
