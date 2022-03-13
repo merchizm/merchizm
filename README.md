@@ -8,14 +8,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ## 🛠 Languages & Tools I Use 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/1e17a81b15f2961de6337c40b02920a681696c33/topics/pixel-art/pixel-art.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=js,php,py,mongodb,mysql,nodejs,ts,vue,vscode,regex,redis,md,jquery,git,html,sass,bots,bash&perline=8)](https://skillicons.dev)
 
 ### Connect with me: [merichrocks@icloud.com](mailto:merichrocks@icloud.com) or [LinkedIn](https://www.linkedin.com/in/enes-kayalar-88b3851b6/)
 
