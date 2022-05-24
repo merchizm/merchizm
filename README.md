@@ -12,7 +12,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ## 🛠 Languages & Tools I Use 
-[![My Skills](https://skillicons.dev/icons?i=js,php,py,mongodb,mysql,nodejs,ts,vue,vscode,regex,redis,md,jquery,git,html,sass,bots,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,electron,php,symfony,laravel,py,flask,mongodb,mysql,nodejs,ts,vue,svelte,regex,redis,md,jquery,git,html,sass,bots,bash,bootstrap&perline=8)](https://skillicons.dev)
 
 ### Connect with me: [merichrocks@icloud.com](mailto:merichrocks@icloud.com) or [LinkedIn](https://www.linkedin.com/in/enes-kayalar-88b3851b6/)
 
