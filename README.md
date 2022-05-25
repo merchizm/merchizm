@@ -4,7 +4,8 @@
 <img src="https://api.daily.dev/devcards/0abb0fa332624a99846abd5a22256f31.png?r=0aw" width="256" align="right" alt="Meriç's Dev Card"/>
 </a>
 
-[![Website](https://img.shields.io/website?label=merchizm.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://merchizm.github.io)
+[![Website](https://img.shields.io/website?label=merchizm.github.io&style=for-the-badge&url=https%3A%2F%2Fmerchizm.github.io)](https://merchizm.github.io)
+[![Website](https://img.shields.io/website?label=mekayalar.com&style=for-the-badge&url=http%3A%2F%2Fmekayalar.com)](http://mekayalar.com)
 
 ## I'm a Developer, Pixel Artist and Student 😝
 
