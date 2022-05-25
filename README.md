@@ -1,7 +1,7 @@
 ### Hi there, I'm Meriç(ch) 👋 
 
 <a href="https://app.daily.dev/merchizm">
-<img src="https://api.daily.dev/devcards/0abb0fa332624a99846abd5a22256f31.png?r=0aw" width="256" align="right" alt="Meriç's Dev Card"/>
+<img src="https://api.daily.dev/devcards/0abb0fa332624a99846abd5a22256f31.png?r=vfi" width="256" align="right" alt="Meriç's Dev Card"/>
 </a>
 
 [![Website](https://img.shields.io/website?label=merchizm.github.io&style=for-the-badge&url=https%3A%2F%2Fmerchizm.github.io)](https://merchizm.github.io)
