@@ -27,4 +27,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗿 My Github Stats
-![Metrics](https://metrics.lecoq.io/merchizm?template=classic&base.indepth=true&base.header=0&base.community=0&languages=1&stars=1&base.indepth=true&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Europe%2FIstanbul&config.display=columns)
+| [![Merchizm's GitHub stats](https://github-readme-stats.vercel.app/api?username=merchizm&icons=true&include_all_commits=true&theme=tokyonight&border_radius=7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merchizm&layout=compact&theme=tokyonight&border_radius=7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
