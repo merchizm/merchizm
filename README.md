@@ -1,4 +1,4 @@
-### Hi there, I'm Meriç(ch) 👋 
+### Hi there, I'm Meriç(ch) Enes 👋 
 
 <a href="https://app.daily.dev/merchizm">
 <img src="https://api.daily.dev/devcards/0abb0fa332624a99846abd5a22256f31.png?r=vfi" width="256" align="right" alt="Meriç's Dev Card"/>
