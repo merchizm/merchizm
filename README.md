@@ -15,7 +15,7 @@
 ## 🛠 Languages & Tools I Use 
 [![My Skills](https://skillicons.dev/icons?i=js,electron,php,symfony,laravel,py,flask,mongodb,mysql,nodejs,ts,vue,svelte,regex,redis,md,jquery,git,html,sass,bots,bash,bootstrap&perline=8)](https://skillicons.dev)
 
-### Connect with me: [merichrocks@icloud.com](mailto:merichrocks@icloud.com) or [LinkedIn](https://www.linkedin.com/in/enes-kayalar-88b3851b6/)
+### Connect with me: [merich@duck.com](mailto:merich@duck.com) or [LinkedIn](https://www.linkedin.com/in/enes-kayalar-88b3851b6/)
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
