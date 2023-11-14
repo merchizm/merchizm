@@ -5,7 +5,7 @@
 </a>
 
 [![Website](https://img.shields.io/website?label=mekayalar.com&style=for-the-badge&url=https%3A%2F%2Fmekayalar.com)](https://mekayalar.com)
-[![Website](https://img.shields.io/website?label=mekayalar.com&style=for-the-badge&url=https%3A%2F%2Fmekayalar.dev)](https://mekayalar.dev)
+[![Website](https://img.shields.io/website?label=mekayalar.dev&style=for-the-badge&url=https%3A%2F%2Fmekayalar.dev)](https://mekayalar.dev)
 [![Website](https://img.shields.io/website?label=merchizm.github.io&style=for-the-badge&url=https%3A%2F%2Fmerchizm.github.io)](https://merchizm.github.io)
 
 ## I'm a Developer, Pixel Artist, Social Media Manager 😝
